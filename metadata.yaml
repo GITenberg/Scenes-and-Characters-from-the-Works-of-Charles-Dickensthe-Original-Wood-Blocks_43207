@@ -14,7 +14,7 @@ contributor:
     url: http://www.gutenberg.org/2009/agents/41895
   - agent_name: Fraser, Francis Arthur
     alias: Fraser, F. A. (Francis Arthur)
-    birthdate: &id001 1846
+    birthdate: 1846
     deathdate: 1924
     gutenberg_agent_id: '44830'
     url: http://www.gutenberg.org/2009/agents/44830
@@ -22,7 +22,7 @@ contributor:
     aliases:
     - Barnard, Fred. (Frederick)
     - Barnard, F. (Frederick)
-    birthdate: *id001
+    birthdate: 1846
     deathdate: 1896
     gutenberg_agent_id: '41534'
     url: http://www.gutenberg.org/2009/agents/41534
@@ -89,6 +89,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/37
     wikipedia: http://en.wikipedia.org/wiki/Charles_Dickens
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/43207#Scenes-and-Characters-from-the-Works-of-Charles-Dickensthe-Original-Wood-Blocks
 gutenberg_issued: '2013-07-13'
 gutenberg_type: Text
 identifiers:
